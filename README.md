@@ -10,5 +10,7 @@ https://raw.githubusercontent.com/compilekaiten/Enmity-Themes/main/Zelk/Zelk.jso
 ```
 <details>
 <summary>Preview</summary>
-<center><img src=".assets/images/Image.png" width="800" height="800"></center>
+
+![Zelk](.assets/images/Image.png?raw=true "Zelk preview")
+
 </details>
