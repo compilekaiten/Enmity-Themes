@@ -2,7 +2,7 @@
 	"name": "Nord",
 	"author": "NEO#7154",
 	"theme_color_map": {
-		"KEYBOARD": ["#4C566A", "#FFFFFF"],
+		"KEYBOARD": ["#444D5F", "#FFFFFF"],
 		"BACKGROUND_PRIMARY": ["#2E3440", "#FFFFFF"],
 		"BACKGROUND_SECONDARY": ["#3C4454", "#FFFFFF"],
 		"BACKGROUND_SECONDARY_ALT": ["#444D5F", "#FFFFFF"],
@@ -42,6 +42,6 @@
 		"PRIMARY_DARK_900": "#FFFFFF"
 	},
 	"unsafe_colors": {
-		"CHAT_GREY": "#444D5F"
+		"CHAT_GREY": "#2E3440"
 	}
 }
