@@ -1,7 +1,8 @@
 {
 	"name": "Nord",
-  	"author": "NEO#7154",
+	"author": "NEO#7154",
 	"theme_color_map": {
+		"KEYBOARD": ["#4C566A", "#FFFFFF"],
 		"BACKGROUND_PRIMARY": ["#2E3440", "#FFFFFF"],
 		"BACKGROUND_SECONDARY": ["#3C4454", "#FFFFFF"],
 		"BACKGROUND_SECONDARY_ALT": ["#444D5F", "#FFFFFF"],
@@ -39,5 +40,8 @@
 		"PRIMARY_DARK_700": "#4C566A",
 		"PRIMARY_DARK_800": "#2E3440",
 		"PRIMARY_DARK_900": "#FFFFFF"
+	},
+	"unsafe_colors": {
+		"CHAT_GREY": "#444D5F"
 	}
 }
