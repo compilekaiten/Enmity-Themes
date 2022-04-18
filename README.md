@@ -1,19 +1,39 @@
 # Enmity-Themes
-Collection of Custom Enmity Themes
+A collection of custom Enmity Themes!
 
 Created by: NEO#7154
+
+Check out Enmity [here](https://github.com/enmity-mod)
+
+- - - -
+
+## Nord
+A theme inspired by the [Nord Palette](https://www.nordtheme.com/docs/colors-and-palettes)
+
+&nbsp;&nbsp;Click on the copy button and add to Enmity
+```
+https://raw.githubusercontent.com/compilekaiten/Enmity-Themes/main/Nord/Nord.json
+```
+<details>
+<summary>Preview</summary>
+
+![Zelk](.assets/images/nord.png?raw=true "Zelk preview")
+
+</details>
 
 - - - -
 
 ## Zelk
-Click on the copy button and add to Enmity
+A dark theme for Enmity, ported from the popular [Zelk for BetterDiscord](https://github.com/schnensch0/zelk)
+
+&nbsp;&nbsp;Click on the copy button and add to Enmity
 ```
 https://raw.githubusercontent.com/compilekaiten/Enmity-Themes/main/Zelk/Zelk.json
 ```
 <details>
 <summary>Preview</summary>
 
-![Zelk](.assets/images/Image.png?raw=true "Zelk preview")
+![Zelk](.assets/images/zelk.png?raw=true "Zelk preview")
 
 </details>
 
