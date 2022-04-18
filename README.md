@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/compilekaiten/Enmity-Themes/main/Nord/Nord.jso
 <details>
 <summary>Preview</summary>
 
-![Zelk](.assets/images/nord.png?raw=true "Zelk preview")
+![Zelk](.assets/images/nord.png?raw=true "Nord preview")
 
 </details>
 
