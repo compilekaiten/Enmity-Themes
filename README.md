@@ -10,6 +10,8 @@ Check out Enmity [here](https://github.com/enmity-mod)
 ## Nord
 A theme inspired by the [Nord Palette](https://www.nordtheme.com/docs/colors-and-palettes)
 
+[Changelog](Nord/readme.md)
+
 &nbsp;&nbsp;Click on the copy button and add to Enmity
 ```
 https://raw.githubusercontent.com/compilekaiten/Enmity-Themes/main/Nord/Nord.json
@@ -25,6 +27,8 @@ https://raw.githubusercontent.com/compilekaiten/Enmity-Themes/main/Nord/Nord.jso
 
 ## Zelk
 A dark theme for Enmity, ported from the popular [Zelk for BetterDiscord](https://github.com/schnensch0/zelk)
+
+[Changelog](Zelk/readme.md)
 
 &nbsp;&nbsp;Click on the copy button and add to Enmity
 ```
