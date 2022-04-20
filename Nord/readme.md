@@ -7,4 +7,5 @@ Report any issues on Discord
 > Changelog
 
 * 04/17/22 | Update for Keyboard and Grey bar, Added more elements, tweaked some colors
+* 04/19/22 | Changed Keyboard background color to match bottom bar
   
