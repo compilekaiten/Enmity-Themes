@@ -42,3 +42,19 @@ https://raw.githubusercontent.com/compilekaiten/Enmity-Themes/main/Zelk/Zelk.jso
 </details>
 
 - - - -
+
+## Carbon
+A dark and spooky Enmity Theme
+
+[Changelog](Carbon/readme.md)
+
+&nbsp;&nbsp;Click on the copy button and add to Enmity
+```
+https://raw.githubusercontent.com/compilekaiten/Enmity-Themes/main/Carbon/Carbon.json
+```
+<details>
+<summary>Preview</summary>
+
+![Zelk](.assets/images/carbon.png?raw=true "Carbon preview")
+
+</details>

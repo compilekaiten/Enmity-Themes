@@ -7,6 +7,8 @@ Some modifications made
 
 Report any issues on Discord
 
+- - - -
+
 > Changelog
 
 * 04/15/22 | Updated for Keyboards and Grey Bar Fix
