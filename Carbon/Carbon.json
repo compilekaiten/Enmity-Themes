@@ -1,6 +1,14 @@
 {
 	"name": "Carbon",
-	"author": "NEO#7154",
+	"version": "1.2",
+	"description": "A dark and spooky theme",
+	"color": "#D65A31",
+	"authors": [
+		{
+			"name": "NEO",
+			"id": "424806150702366723"
+		}
+	],
 	"theme_color_map": {
 		"KEYBOARD": ["#222831", "#FFFFFF"],
 		"BACKGROUND_PRIMARY": ["#222831", "#FFFFFF"],
@@ -23,7 +31,8 @@
 		"INTERACTIVE_NORMAL": ["#EEEEEE", "#FFFFFF"],
 		"TEXT_LINK": ["#D65A31", "#FFFFFF"],
 		"TEXT_MUTED": ["#D65A31", "#FFFFFF"],
-		"TEXT_NORMAL": ["#FFFFFF", "#FFFFFF"]
+		"TEXT_NORMAL": ["#FFFFFF", "#FFFFFF"],
+		"CHANNEL_ICON": ["#D65A31","#D65A31"]
 	},
 	"colours": {
 		"PRIMARY_DARK": "#D65A31",
@@ -37,7 +46,8 @@
 		"PRIMARY_DARK_700": "#222831",
 		"PRIMARY_DARK_800": "#222831",
 		"BRAND_NEW": "#D65A31",
-		"WHITE": "#EEEEEE"
+		"WHITE": "#EEEEEE",
+		"STATUS_YELLOW": "#D65A31"
 	},
 	"unsafe_colors": {
 		"CHAT_GREY": "#222831"

@@ -1,6 +1,14 @@
 {
 	"name": "Nord",
-	"author": "NEO#7154",
+	"version": "1.2",
+	"description": "Inspired by the NORD Palette",
+	"color": "#5E81AC",
+	"authors": [
+		{
+			"name": "NEO",
+			"id": "424806150702366723"
+		}
+	],
 	"theme_color_map": {
 		"KEYBOARD": ["#2E3440", "#D8DEE9"],
 		"BACKGROUND_PRIMARY": ["#2E3440", "#D8DEE9"],
@@ -24,7 +32,8 @@
 		"INTERACTIVE_NORMAL": ["#D8DEE9", "#5E81AC"],
 		"TEXT_NORMAL": ["#FFFFFF", "#000000"],
 		"TEXT_MUTED": ["#D8DEE9", "#5E81AC"],
-		"TEXT_LINK": ["#88C0D0", "#8FBCBB"]
+		"TEXT_LINK": ["#88C0D0", "#8FBCBB"],
+		"CHANNEL_ICON": ["#D8DEE9", "#5E81AC"]
 	},
 	"colours": {
 		"PRIMARY_DARK": "#bfbfbf",
@@ -38,7 +47,8 @@
 		"PRIMARY_DARK_700": "#4C566A",
 		"PRIMARY_DARK_800": "#2E3440",
 		"BRAND_NEW": "#444D5F",
-		"WHITE": "#88C0D0"
+		"WHITE": "#88C0D0",
+		"STATUS_YELLOW": "#959393"
 	},
 	"unsafe_colors": {
 		"CHAT_GREY": "#2E3440"
