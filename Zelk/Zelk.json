@@ -120,7 +120,8 @@
 		"PRIMARY_DARK_800": "#1e2529",
 		"BRAND_NEW": "#499bc4",
 		"WHITE": "#d2f3ff",
-		"STATUS_YELLOW": "#6d8692"
+		"STATUS_YELLOW": "#6d8692",
+		"STATUS_GREEN_600": "#499bc4"
 	},
 	"unsafe_colors": {
 		"CHAT_GREY": "#1e2529"
